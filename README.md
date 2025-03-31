@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @isoextension
-- 👀 I’m interested in AI
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am a Lua developer!
+im isoextension ig uess
+IM JUST A DISK!!
+avgeek and is good at lua and js
+hobby: node
 
 <!---
 isoextension/isoextension is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
